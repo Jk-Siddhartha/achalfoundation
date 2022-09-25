@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/achalfoundation/static/css/main.a0696b65.css",
+    "main.js": "/achalfoundation/static/js/main.83f23ca2.js",
+    "static/media/sikshabg.png": "/achalfoundation/static/media/sikshabg.29cbfdea1cf4e8303a5f.png",
+    "static/media/rubarobg.png": "/achalfoundation/static/media/rubarobg.cde34e21edc2b06edbaf.png",
+    "static/media/prakritibg.png": "/achalfoundation/static/media/prakritibg.7926fcf47247984230a4.png",
+    "static/media/donatebg.png": "/achalfoundation/static/media/donatebg.bb691656a0b711dc8398.png",
+    "static/media/jeevbg.png": "/achalfoundation/static/media/jeevbg.4763e1ea53e71f32c348.png",
+    "static/media/aaharbg.png": "/achalfoundation/static/media/aaharbg.a596cae29e68ec33f6a4.png",
+    "static/media/contactbg.jpg": "/achalfoundation/static/media/contactbg.e2085537603f1163a501.jpg",
+    "static/media/Director_Image.jpg": "/achalfoundation/static/media/Director_Image.32cbefa85c4cfb9af0e5.jpg",
+    "static/media/Team_member_3.png": "/achalfoundation/static/media/Team_member_3.41bfef2ef7bfb5bd0ef7.png",
+    "static/media/Team_member_1.png": "/achalfoundation/static/media/Team_member_1.cc5cfda275ce67e01453.png",
+    "static/media/Team_member_2.png": "/achalfoundation/static/media/Team_member_2.7466c6e1321fe7b765dc.png",
+    "static/media/Team_member_4.png": "/achalfoundation/static/media/Team_member_4.4e897a8b4dd160d28d23.png",
+    "static/media/Image1.jpg": "/achalfoundation/static/media/Image1.b3b1c0c4fc0fb7919fb2.jpg",
+    "static/media/Image2.jpg": "/achalfoundation/static/media/Image2.bda0ab52bf8d5f254d14.jpg",
+    "static/media/Image3.jpg": "/achalfoundation/static/media/Image3.718886d85f017bdaccf1.jpg",
+    "static/media/Image4.jpg": "/achalfoundation/static/media/Image4.c9db6f16a3f513250fac.jpg",
+    "static/media/Image5.jpg": "/achalfoundation/static/media/Image5.14e14c7ead142ea10d7b.jpg",
+    "static/media/1.png": "/achalfoundation/static/media/1.e8d45712083180aa7349.png",
+    "static/media/5.png": "/achalfoundation/static/media/5.d1937c644cc1a68c477b.png",
+    "static/media/3.png": "/achalfoundation/static/media/3.1cad84613514eeee3f1f.png",
+    "static/media/4.png": "/achalfoundation/static/media/4.507d16f2434f236bde4a.png",
+    "static/media/2.png": "/achalfoundation/static/media/2.530ce7b76bf935a776e1.png",
+    "index.html": "/achalfoundation/index.html",
+    "main.a0696b65.css.map": "/achalfoundation/static/css/main.a0696b65.css.map",
+    "main.83f23ca2.js.map": "/achalfoundation/static/js/main.83f23ca2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0696b65.css",
+    "static/js/main.83f23ca2.js"
+  ]
+}
